@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScalableRecyclerViewItem</string>
+    <string name="name_item">John Doe</string>
+    <string name="type_item">type</string>
+</resources>

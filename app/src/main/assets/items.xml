@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pokemons>
+    <pokemon id="1">
+        <name>Azurill</name>
+        <type>fairy</type>
+        <imageName>azurill.png</imageName>
+    </pokemon>
+    <pokemon id="2">
+        <name>Emolga</name>
+        <type>flying</type>
+        <imageName>emolga.png</imageName>
+    </pokemon>
+    <pokemon id="3">
+        <name>Gible</name>
+        <type>ground</type>
+        <imageName>gible.png</imageName>
+    </pokemon>
+    <pokemon id="4">
+        <name>Glaceon</name>
+        <type>ice</type>
+        <imageName>glaceon.png</imageName>
+    </pokemon>
+    <pokemon id="5">
+        <name>Piplup</name>
+        <type>water</type>
+        <imageName>piplup.png</imageName>
+    </pokemon>
+    <pokemon id="6">
+        <name>Raikou</name>
+        <type>electric</type>
+        <imageName>raikou.png</imageName>
+    </pokemon>
+    <pokemon id="7">
+        <name>Sableye</name>
+        <type>ghost</type>
+        <imageName>sableye.png</imageName>
+    </pokemon>
+    <pokemon id="8">
+        <name>Shuppet</name>
+        <type>ghost</type>
+        <imageName>shuppet.png</imageName>
+    </pokemon>
+    <pokemon id="9">
+        <name>Suicune</name>
+        <type>water</type>
+        <imageName>suicune.png</imageName>
+    </pokemon>
+    <pokemon id="10">
+        <name>Torchic</name>
+        <type>fire</type>
+        <imageName>torchic.png</imageName>
+    </pokemon>
+</pokemons>
